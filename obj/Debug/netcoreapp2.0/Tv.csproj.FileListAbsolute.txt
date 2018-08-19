@@ -1,0 +1,11 @@
+D:\Projects\Tv\bin\Debug\netcoreapp2.0\Tv.deps.json
+D:\Projects\Tv\bin\Debug\netcoreapp2.0\Tv.runtimeconfig.json
+D:\Projects\Tv\bin\Debug\netcoreapp2.0\Tv.runtimeconfig.dev.json
+D:\Projects\Tv\bin\Debug\netcoreapp2.0\Tv.dll
+D:\Projects\Tv\bin\Debug\netcoreapp2.0\Tv.pdb
+D:\Projects\Tv\obj\Debug\netcoreapp2.0\Tv.csprojAssemblyReference.cache
+D:\Projects\Tv\obj\Debug\netcoreapp2.0\Tv.csproj.CoreCompileInputs.cache
+D:\Projects\Tv\obj\Debug\netcoreapp2.0\Tv.AssemblyInfoInputs.cache
+D:\Projects\Tv\obj\Debug\netcoreapp2.0\Tv.AssemblyInfo.cs
+D:\Projects\Tv\obj\Debug\netcoreapp2.0\Tv.dll
+D:\Projects\Tv\obj\Debug\netcoreapp2.0\Tv.pdb
