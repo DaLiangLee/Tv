@@ -12764,11 +12764,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Tv\\Tv.csproj",
+      "projectUniqueName": "d:\\Projects\\TvShows\\Tv.csproj",
       "projectName": "Tv",
-      "projectPath": "D:\\Projects\\Tv\\Tv.csproj",
+      "projectPath": "d:\\Projects\\TvShows\\Tv.csproj",
       "packagesPath": "C:\\Users\\Martin's PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Tv\\obj\\",
+      "outputPath": "d:\\Projects\\TvShows\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
