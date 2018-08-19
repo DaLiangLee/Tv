@@ -10,6 +10,9 @@ namespace Tv.Mapping
         {
             CreateMap<TvNetwork, TvNetworkViewModel>();
             CreateMap<TvShow, TvShowViewModel>();
+            
+            CreateMap<TvNetworkUpdateViewModel, TvNetwork>();
+            CreateMap<TvShowViewModel, TvShow>();
         }
     }
 }

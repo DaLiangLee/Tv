@@ -30,6 +30,8 @@ namespace Tv
         {
             services.AddAutoMapper();
             services.AddDbContext<TvContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("Default")));
+            services.AddScoped<ITvRepostitory, TvRepository>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddMvc();
         }
 
