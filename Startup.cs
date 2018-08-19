@@ -10,6 +10,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Tv.Database;
+using Microsoft.Extensions.Options;
+using Tv.Database;
+using AutoMapper;
 
 namespace Tv
 {
@@ -25,6 +28,7 @@ namespace Tv
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddAutoMapper();
             services.AddDbContext<TvContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("Default")));
             services.AddMvc();
         }
